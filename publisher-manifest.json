@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "195fbd6c873c06046151247b",
+  "owner": "c7emb7unx",
+  "repo": "page-94f038985346421f024ebf88",
+  "title": "轻云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "94f038985346421f024ebf88",
+      "a": "轻云",
+      "b": "稳定全球clash加速器",
+      "entity": "轻云",
+      "brand": "轻云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3be68f485c18b4321b1a008f23d671a77c11922eeb86cae4f0e3ee41b659d1da",
+      "content": {
+        "primary_entity": "轻云",
+        "keyword1": "轻云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始加速",
+          "AI_DESCRIPTION": "，提供覆盖多地区的节点线路，支持主流 Clash 客户端导入订阅使用。基础版适合轻度上网与日常浏览，旗舰版增加 IPLC 专线与流媒体解锁，团队版提供更高流量与设备数。选择时先确认常用设备数量与月流量，再按周期对比月付与年付价格，最后依照客户端文档完成订阅配置。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度快速了解轻云。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 提供 100GB 流量与 3 台设备；旗舰版月付 ¥35 提供 300GB 流量、5 台设备与 IPLC 专线；团队版月付 ¥85 提供 1000GB 流量与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "同一账号可在手机、电脑、平板或路由器上使用，按套餐允许的设备台数同时在线，超出时需升级或减少连接设备。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付按基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年计算，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "三档套餐对比",
+          "AI_FEATURE_TITLE_2": "设备数量适配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "按三步确定套餐并完成客户端订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "轻云提供多地区节点线路，适配 Clash 等主流客户端的订阅导入，覆盖基础浏览、流媒体与游戏加速场景，按设备数量与流量需求选择合适套餐。",
+          "AI_HERO_SUBTITLE": "轻云多地区节点，订阅即用",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按需选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版、团队版中选定一档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅地址，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "轻云加速",
+          "AI_FAQ_TITLE": "轻云常见问答",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路选择。",
+          "AI_FAQ_QUESTION_1": "轻云支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "轻云订阅可用于 Clash、Shadowrocket、v2rayN、sing-box 等常见客户端。不同系统可选的客户端类型有差异，建议根据设备系统挑选对应版本并参照客户端文档配置。",
+          "AI_FAQ_QUESTION_2": "一台设备可以登录多个轻云账号吗？",
+          "AI_FAQ_ANSWER_2": "同一设备通常建议只配置一个轻云订阅。套餐按同时在线设备数限制，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量可能无法同时连接。",
+          "AI_FAQ_QUESTION_3": "轻云套餐的流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "流量用尽后可以等到下个计费周期自动重置，也可以升级到更高档位套餐获得更多流量。基础版 100GB、旗舰版 300GB、团队版 1000GB，按需升级更划算。",
+          "AI_FAQ_QUESTION_4": "轻云年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付与月付使用相同的流量和功能，区别在价格。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，年付相当于十个月费用，长期使用更省。",
+          "AI_FAQ_QUESTION_5": "轻云旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏、视频会议和实时协作。团队版进一步提供 VIP 高带宽节点和企业定制路由。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowdy.cn",
+    "host": "shadowdy.cn"
+  },
+  "file_hashes": {
+    "index.html": "9ec613d5ee53372d3da681f1d58a69c18e6a1a79652f8e7f26956371b1d8db90",
+    "sitemap.xml": "d77073994479e65eb267e8959a747fc700ff5d61278f3c0f4eeea15a608fe670",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5292d531e25aa6e7df47dc6f6e50f6d3bc3b5434221a04931d71ff864700f06b",
+    "robots.txt": "d4ce893fa9596e59aa159ea93eca5238a119f797eb3bde80b71819470940bf25",
+    "ca294ae066a3e1965b0514b2476f2f8f.txt": "fa5bed23c6f390d6f94a64bf9bc2f46d9de324c488726d47d6abd09b0c81067c"
+  },
+  "revision": "a3a695bbb227205cd28531b9fb6b3706a1a2d38ceca8975d3c4492d1bf6508ba"
+}
